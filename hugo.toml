@@ -1,0 +1,8 @@
+baseURL = 'https://hieptran.me/'
+languageCode = 'en-us'
+title = 'Hiep Tran'
+theme = 'nostyleplease'
+
+[params]
+    favicon = '/images/favicon.ico'
+
