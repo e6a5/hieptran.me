@@ -19,7 +19,7 @@ The phrase “Hello, World!” is often the first program written by newcomers t
 
 I aim to keep my posts straightforward and insightful, focusing on practical knowledge and sharing what I’ve learned along the way. Whether you're a beginner looking to learn or someone interested in the world of software development, I hope you find something valuable here.
 
-Thank you for stopping by! Feel free to explore my posts, and don’t hesitate to reach out through [your contact method] if you have questions or want to connect.
+Thank you for stopping by! Feel free to explore my posts, and don’t hesitate to reach out through my X account if you have questions or want to connect.
 
 Stay tuned for more updates!
 
