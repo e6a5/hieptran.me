@@ -23,6 +23,3 @@ Thank you for stopping by! Feel free to explore my posts, and don’t hesitate t
 
 Stay tuned for more updates!
 
----
-
-*Feel free to follow me on [Twitter](https://x.com/e6a5__) or [GitHub](https://github.com/e6a5) for more insights and updates.*
