@@ -4,7 +4,7 @@ date = 2024-10-31T14:53:05+07:00
 draft = false
 +++
 
-Today, it’s easy to generate an essay from just a few ideas using AI. In minutes, I can review and publish an AI-generated piece, saving time and effort that might have taken me hours, even days, to complete on my own. With AI, all I need is an idea—AI can handle the rest. But then, why am I choosing to write myself?
+Today, AI can generate an essay from our ideas. With AI, I could simply review and publish an essay within minutes instead of spending hours or even days working on it. Using AI saves time and effort; all I’d need is an idea, and AI would handle the rest. It sounds easy, so why am I choosing to write myself?
 
 First, writing is thinking. Writing well requires clear thinking, which isn’t easy. It pushes me to dig deeply into my thoughts and truly understand them. Why do I have certain ideas? How do they connect? Writing forces me to organize and consolidate my knowledge in a way that nothing else does.
 
