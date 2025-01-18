@@ -9,7 +9,7 @@ As I reflect on the past year, I’m reminded of the moments that shaped my grow
 ## AI and my job 
 > "AI won't replace programmers, but rather make it easier for programmers to replace everyone else" - Naval
 ## Great product 
-Great product = passion + collaboration + exceptional skills
+A great product = passion + collaboration + exceptional skills
 ## Mindset 
 > "The first rule is that you can’t really know anything if you just remember isolated facts and try and bang ’em back. If the facts don’t hang together on a latticework of theory, you don’t have them in a usable form … You’ve got to hang experience on a latticework of models in your head." - Charlie Munger
 ## My manager
