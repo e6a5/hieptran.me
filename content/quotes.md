@@ -1,7 +1,9 @@
----
-title: "Favorite Quotes"
-layout: "quotes"
----
++++
+title = ""
+layout = "quotes"
+date = 2025-02-12T23:11:57+07:00
+draft = false
++++
 
 Here are some of my favorite quotes that inspire and motivate me:
 

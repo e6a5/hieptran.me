@@ -106,12 +106,5 @@
       <guid>http://localhost:1313/posts/2020-07-06-strange-post/</guid>
       <description>&lt;p&gt;This post is strange. It also has some custom js.&lt;/p&gt;</description>
     </item>
-    <item>
-      <title>Favorite Quotes</title>
-      <link>http://localhost:1313/quotes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/quotes/</guid>
-      <description>&lt;p&gt;Here are some of my favorite quotes that inspire and motivate me:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Learn to sell, learn to build. If you can do both, you will be unstoppable.&amp;rdquo;&lt;br&gt;&#xA;— Naval Ravikant&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;If you can&amp;rsquo;t explain something in simple terms, you don&amp;rsquo;t understand it well enough.&amp;rdquo;&lt;br&gt;&#xA;— Richard Feynman&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The best way to predict the future is to create it.&amp;rdquo;&lt;br&gt;&#xA;— Peter Drucker&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Stay hungry, stay foolish.&amp;rdquo;&lt;br&gt;&#xA;— Steve Jobs&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The only way to do great work is to love what you do.&amp;rdquo;&lt;br&gt;&#xA;— Steve Jobs&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>
