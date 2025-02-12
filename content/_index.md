@@ -6,12 +6,11 @@ draft = false
 
 Hi 👋,
 
-Welcome to my corner of the web. I’m a software engineer passionate about clean, efficient code and building things that make life a little easier. Here, I share my learnings, projects, and thoughts on technology, development practices, and the minimalist approach that drives my work.
+Welcome to my space. I love building useful things, learning, and sharing ideas. Right now, I’m focused on:
 
-I believe in:
+- Creating and building products
+- Seeking wealth through leverage and ownership
+- Staying healthy, fit, and calm
+- Cultivating a home filled with love
 
-- Simplicity in design and code
-- Continuous learning and improvement
-- Sharing knowledge with others
-
-Feel free to explore, and thanks for visiting!
+Feel free to explore—thanks for stopping by!

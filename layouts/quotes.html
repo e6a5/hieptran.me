@@ -1,0 +1,27 @@
+{{ define "main" }}
+<div class="container">
+    <h1>{{ .Title }}</h1>
+    <div class="quotes-content">
+        {{ .Content }}
+    </div>
+</div>
+
+<style>
+    .quotes-content {
+        max-width: 800px;
+        margin: 2rem auto;
+    }
+
+    .quotes-content blockquote {
+        margin: 2rem 0;
+        padding: 1rem 2rem;
+        border-left: 4px solid #007bff;
+        background-color: #f8f9fa;
+    }
+
+    .quotes-content blockquote p {
+        margin: 0.5rem 0;
+        font-style: italic;
+    }
+</style>
+{{ end }} 

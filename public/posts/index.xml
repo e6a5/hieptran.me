@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hiep Tran</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Hiep Tran</description>
+    <title>Posts on Hiep Tran</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Hiep Tran</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 17 Jan 2025 22:18:24 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Review of the Year 2024</title>
       <link>http://localhost:1313/posts/review-of-the-year-2024/</link>
@@ -105,13 +105,6 @@
       <pubDate>Mon, 06 Jul 2020 00:00:00 +0800</pubDate>
       <guid>http://localhost:1313/posts/2020-07-06-strange-post/</guid>
       <description>&lt;p&gt;This post is strange. It also has some custom js.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Favorite Quotes</title>
-      <link>http://localhost:1313/quotes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/quotes/</guid>
-      <description>&lt;p&gt;Here are some of my favorite quotes that inspire and motivate me:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Learn to sell, learn to build. If you can do both, you will be unstoppable.&amp;rdquo;&lt;br&gt;&#xA;— Naval Ravikant&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;If you can&amp;rsquo;t explain something in simple terms, you don&amp;rsquo;t understand it well enough.&amp;rdquo;&lt;br&gt;&#xA;— Richard Feynman&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The best way to predict the future is to create it.&amp;rdquo;&lt;br&gt;&#xA;— Peter Drucker&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Stay hungry, stay foolish.&amp;rdquo;&lt;br&gt;&#xA;— Steve Jobs&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The only way to do great work is to love what you do.&amp;rdquo;&lt;br&gt;&#xA;— Steve Jobs&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
