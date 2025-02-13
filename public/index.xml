@@ -6,8 +6,15 @@
     <description>Recent content on Hiep Tran</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jan 2025 22:18:24 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 23:11:57 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/quotes/</link>
+      <pubDate>Wed, 12 Feb 2025 23:11:57 +0700</pubDate>
+      <guid>http://localhost:1313/quotes/</guid>
+      <description>&lt;p&gt;Here are some of my favorite quotes that inspire and motivate me:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Learn to sell, learn to build. If you can do both, you will be unstoppable.&amp;rdquo;&lt;br&gt;&#xA;— Naval Ravikant&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;I think a life properly lived is just learn, learn, learn all the time.&amp;rdquo;&#xA;— Charlie Munger&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;If you can&amp;rsquo;t explain something in simple terms, you don&amp;rsquo;t understand it well enough.&amp;rdquo;&lt;br&gt;&#xA;— Richard Feynman&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The best way to predict the future is to create it.&amp;rdquo;&lt;br&gt;&#xA;— Peter Drucker&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Review of the Year 2024</title>
       <link>http://localhost:1313/posts/review-of-the-year-2024/</link>

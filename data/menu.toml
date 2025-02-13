@@ -1,8 +1,13 @@
 [[entries]]
-title = "all posts"
+title = "Recent Posts"
 
   [entries.post_list]
   limit = 5
   show_more = true
   show_more_text = "See more posts..."
   show_more_url = "posts"
+
+[[entries]]
+title = "Quotes"
+url = "quotes"
+

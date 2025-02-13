@@ -8,40 +8,7 @@
 </header>
 {{ .Content }}
 
-<div class="quotes-link">
-    <a href="/quotes">→ My Favorite Quotes</a>
-</div>
-
 {{ partial "menu_item.html" (dict "context" . "collection" $.Site.Data.menu.entries) }}
-
-
-<style>
-    .quotes-link {
-        display: inline-block;
-        margin-top: 1rem;
-        color: #007bff;
-        text-decoration: none;
-    }
-
-    .quotes-link:hover {
-        text-decoration: underline;
-    }
-
-    .quotes-link {
-        margin: 1rem 0;
-        padding-bottom: 1rem;
-        border-bottom: 1px solid #eee;
-    }
-    
-    .quotes-link a {
-        color: inherit;
-        text-decoration: none;
-    }
-    
-    .quotes-link a:hover {
-        text-decoration: underline;
-    }
-</style>
 
 <script data-goatcounter="https://e6a5.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

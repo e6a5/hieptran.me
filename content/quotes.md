@@ -10,6 +10,9 @@ Here are some of my favorite quotes that inspire and motivate me:
 > "Learn to sell, learn to build. If you can do both, you will be unstoppable."  
 > — Naval Ravikant
 
+> "I think a life properly lived is just learn, learn, learn all the time."
+> — Charlie Munger
+
 > "If you can't explain something in simple terms, you don't understand it well enough."  
 > — Richard Feynman
 
@@ -27,3 +30,6 @@ Here are some of my favorite quotes that inspire and motivate me:
 
 > "Be the change you wish to see in the world."  
 > — Mahatma Gandhi 
+
+> "Don't worry about what anybody else is going to do. The best way to predict the future is to invent it."  
+> — Alan Kay
