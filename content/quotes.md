@@ -33,3 +33,6 @@ Here are some of my favorite quotes that inspire and motivate me:
 
 > "Don't worry about what anybody else is going to do. The best way to predict the future is to invent it."  
 > — Alan Kay
+
+> "I will prepare and someday my chance will come."
+> - Abraham Lincoln
