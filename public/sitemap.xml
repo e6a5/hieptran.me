@@ -2,11 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/quotes/</loc>
-    <lastmod>2025-02-12T23:11:57+07:00</lastmod>
+    <loc>http://localhost:1313/posts/discipline/</loc>
+    <lastmod>2025-04-08T04:52:15+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-01-17T22:18:24+07:00</lastmod>
+    <lastmod>2025-04-08T04:52:15+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/quotes/</loc>
+    <lastmod>2025-02-12T23:11:57+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/review-of-the-year-2024/</loc>
     <lastmod>2025-01-17T22:18:24+07:00</lastmod>
