@@ -8,13 +8,13 @@ Sometimes, I feel lost in emotions.
 
 They shift quickly. 
 
-One moment I'm focused. 
+One moment, I'm focused. 
 
 The next, I'm chasing what others are doing.
 
 That's FOMO. I recognize it. But just knowing is not enough.
 
-I must learn to trust my own path and walk it, even when it is quiet.
+I must learn to trust my path, even when it is quiet.
 
 
 To do that, I need to find what truly matters to me.
