@@ -39,6 +39,8 @@ Now, whenever I feel stuck, tired, or caught in thoughts, I pause for a moment, 
 For many people, it’s hard to “just breathe.” They forget. It’s not easy to return to presence while working.
 So I decided to build a small tool — something gentle and easy to use during the workday.
 
+And That’s why I created [Zenta](https://github.com/e6a5/zenta).
+
 Zenta is a simple terminal tool for developers. It’s for people like me, who feel at home in the terminal. When you feel distracted or stuck, just type: ``breathe``.
 Zenta helps you observe your breath — right there, in your terminal. It’s small, quiet, and simple. But it works, because it brings you back to what matters: the present moment.
 
