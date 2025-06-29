@@ -31,7 +31,7 @@ I was only reading and thinking. I wasn’t practicing anything in real life.
 So I started meditating. At first, it was difficult. My mind wandered. I gave up often. But I kept trying. After a few months, I could sit for an hour a day. During meditation, my mind and body felt peaceful. I loved that feeling. 
 I then asked myself:
 
-**How can I bring this feeling into my working time?**
+*How can I bring this feeling into my working time?*
 
 The answer was simple: **my breath**.
 
@@ -39,12 +39,17 @@ Now, whenever I feel stuck, tired, or caught in thoughts, I pause for a moment, 
 For many people, it’s hard to “just breathe.” They forget. It’s not easy to return to presence while working.
 So I decided to build a small tool — something gentle and easy to use during the workday.
 
-And That’s why I created [Zenta](https://github.com/e6a5/zenta).
+And that’s why I created [Zenta](https://github.com/e6a5/zenta).
 
 Zenta is a simple terminal tool for developers. It’s for people like me, who feel at home in the terminal. When you feel distracted or stuck, just type: ``breathe``.
 Zenta helps you observe your breath — right there, in your terminal. It’s small, quiet, and simple. But it works, because it brings you back to what matters: the present moment.
 
-Zenta is a great way to start learning how to observe your breath. But once you’ve practiced enough, you might not need it anymore. Anytime you feel lost in thought or disconnected — just pause and return to your breath. With a few breaths, you are back. In the end, what I want to share is this:
+Zenta is a great way to start learning how to observe your breath. But once you’ve practiced enough, you might not need it anymore. Anytime you feel lost in thought or disconnected — just pause and return to your breath. With a few breaths, you are back.
+
+Zenta began as something personal. But it became something better because of others. I'm deeply thankful to everyone who gave feedback, tested it, shared kind words, and sent pull requests to help improve it. Your support means a lot. You helped shape this into something more useful, more human.
+
+In the end, what I want to share is this:
+
 **Mindfulness doesn’t come from tools. It comes from you.**
 
 And it’s always available — right here, right now.
