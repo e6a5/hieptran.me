@@ -35,7 +35,7 @@ Here are some of my favorite quotes that inspire and motivate me:
 > — Alan Kay
 
 > "I will prepare and someday my chance will come."
-> - Abraham Lincoln
+> — Abraham Lincoln
 
 > "Every day we're one day closer to death. But there's no reason to rush into it"
-> - Susan Beth Pfeffer
+> — Susan Beth Pfeffer
