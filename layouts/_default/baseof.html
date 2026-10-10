@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="{{ $.Site.LanguageCode }}">
+{{- partial "head.html" . -}}
+<body class="{{ if .IsHome }}home{{ end }}">
+    <div class="wrap">
+        {{- block "main" . }}{{- end }}
+    </div>
+    <script data-goatcounter="https://e6a5.goatcounter.com/count"
+            async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    {{- if .IsPage }}<meta name="description" content="{{ .Summary | plainify }}" />{{ end }}
+
+    <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} · {{ .Site.Title }}{{ end }}</title>
+
+    <link rel="shortcut icon" type="image/x-icon" href="{{ .Site.Params.favicon | relURL }}" />
+
+    <link rel="preload" href="/fonts/bvp-400-vi.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/bvp-400-latin.woff2" as="font" type="font/woff2" crossorigin />
+
+    {{- $css := resources.Get "css/main.css" | resources.Minify | resources.Fingerprint "sha512" }}
+    <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}" />
+</head>

@@ -1,0 +1,22 @@
+{{ define "main" }}
+<p class="back"><a href="{{ "" | relURL }}">← Trang chủ</a></p>
+<h1 class="post-title">{{ .Title }}</h1>
+{{- with .Content }}<div class="prose">{{ . }}</div>{{ end }}
+
+{{- $posts := .Pages }}
+{{- if $posts }}
+<section class="post-index">
+    {{- range $posts.GroupByDate "2006" }}
+    <h2 class="year">{{ .Key }}</h2>
+    <ul class="posts">
+        {{- range .Pages }}
+        <li>
+            <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02·01" }}</time>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </li>
+        {{- end }}
+    </ul>
+    {{- end }}
+</section>
+{{- end }}
+{{ end }}
